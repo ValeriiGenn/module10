@@ -1,0 +1,24 @@
+{
+    "name": "module10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/*.html",
+        "build": "parcel build src/*.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ValeriiGenn/module10.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ValeriiGenn/module10/issues"
+    },
+    "homepage": "https://github.com/ValeriiGenn/module10#readme",
+    "dependencies": {
+        "parcel-bundler": "^1.12.5"
+    }
+}
